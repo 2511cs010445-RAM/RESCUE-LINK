@@ -1,0 +1,6 @@
+{
+  "name": "RescueLink",
+  "description": "Real-time public safety, emergency dispatch, live SOS location broadcasting, and incident reporting portal.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
